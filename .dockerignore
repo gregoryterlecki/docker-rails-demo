@@ -1,0 +1,8 @@
+.git
+.dockerignore
+.env
+drkiq/node_modules/
+drkiq/vendor/bundle/
+drkiq/tmp/
+node_modules
+npm-debug.log
